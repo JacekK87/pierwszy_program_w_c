@@ -2,7 +2,7 @@ Pierwszy program
 ================
 
 
->/*dolacz biblioteke standardowa input-output*/
+<h2>>/*dolacz biblioteke standardowa input-output*/
 
 >#include <stdio.h>
 
@@ -18,4 +18,4 @@ Pierwszy program
 >	return 0;/* main zwraca wartośc 0*/
 
 
->}
+>}<h2>
