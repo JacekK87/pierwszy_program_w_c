@@ -1,0 +1,133 @@
+    1  sudo os-prober
+    2  sudo update-grub2
+    3  exit
+    4  cd desktop
+    5  mkdir first
+    6  ls
+    7  cd first/
+    8  cd Puplit
+    9  cd Desktop
+   10  ..
+   11  ../
+   12  cd ../
+   13  cd ..
+   14  cd ../
+   15  cd Desktop
+   16  pwd
+   17  cd Desktop/
+   18  cd Desktop
+   19  ../
+   20  ..
+   21  pwd
+   22  cd Desktop
+   23  cd Pulpit
+   24  mkdir z neta
+   25  remove z
+   26  git clone https://github.com/JacekK87/first.git
+   27  sudo apt install git
+   28  git clone https://github.com/JacekK87/first.git
+   29  cd neta
+   30  git clon https://github.com/JacekK87/first.git
+   31  git clone https://github.com/JacekK87/first.git
+   32  help
+   33  ..
+   34  cd ..
+   35  rm -rd first
+   36  pwd
+   37  cd Pulpid
+   38  cd Pulpit
+   39  cd neta
+   40  ..
+   41  ../
+   42  cd ..
+   43  cd neta
+   44  git --version
+   45  pwd
+   46  ls
+   47  git status
+   48  clear
+   49  cd ..
+   50  rm -rd neta
+   51  rm -rd neta/
+   52  cd neta
+   53  ls
+   54  rm -rd first
+   55  rm -r first
+   56  ls
+   57  cd first
+   58  ls
+   59  cd ../
+   60  rm -fr neta
+   61  cd strona 
+   62  mkdir inter
+   63  cd inter
+   64  giv clone nie można usunąć 'neta/first/.git/objects/2b': Katalog nie jest pusty
+   65  rm: usunąć zabezpieczony przed zapisem zwykły plik 'neta/first/.git/objects/08/32bb62e28c483e7e221793bf7c12955276b9c0'? t
+   66  rm: usunąć zabezpieczony przed zapisem zwykły plik 'neta/first/.git/objects/b0/43551a85be445db9e8513fc6ffa671ae14e1a1'? n
+   67  rm: nie można usunąć 'neta/first/.git/objects/b0': Katalog nie jest pusty
+   68  rm: usunąć zabezpieczony przed zapisem zwykły plik 'neta/first/.git/objects/06/b4a8e161315b8b6b93e39a156e65e331df7729'? y
+   69  rm: usunąć zabezpieczony przed zapisem zwykły plik 'neta/first/.git/objects/cc/61678f0982da072cf2450c9105b9f2483adc5d'? t
+   70  rm: usunąć zabezpieczony przed zapisem zwykły plik 'neta/first/.git/objects/e5/b17c2612bcbed7104378d0a70d03b3e5eebe02'? n
+   71  rm: nie można usunąć 'neta/first/.git/objects/e5': Katalog nie jest pusty
+   72  rm: usunąć zabezpieczony przed zapisem zwykły plik 'neta/first/.git/objects/f6/0dc5b6acecb0335a5e9eb027299eaf14461bef'? 
+   73  rm: nie można usunąć 'neta/first/.git/objects/f6': Katalog nie jest pusty
+   74  rm: usunąć zabezpieczony przed zapisem zwykły plik 'neta/first/.git/objects/fa/2f5d725b545c5665c203695499bc21961e2ff0'? y
+   75  rm: usunąć zabezpieczony przed zapisem zwykły plik 'neta/first/.git/objects/fa/362eec9b110454b28daa2c3353b17718f0eef9'? n
+   76  rm: nie można usunąć 'neta/first/.git/objects/fa': Katalog nie jest pusty
+   77  rm: usunąć zabezpieczony przed zapisem zwykły plik 'neta/first/.git/objects/6a/041d1804521fd70c963e83ad6cf2ce817ab6bf'? 
+   78  git clone https://github.com/JacekK87/first.git
+   79  cd first
+   80  nano readme.md
+   81  git status
+   82  nano readme.md
+   83  git status
+   84  nano readme.md
+   85  git log
+   86  pwd
+   87  cd Pulpit
+   88  pwd
+   89  mkdir pierwszy program
+   90  mkdir pierwszy_program
+   91  rm -rd pierwszy
+   92  rm -rd program
+   93  cd pierwszy_program
+   94  touch program.c
+   95  ls
+   96  git init
+   97  git add .
+   98  git commit -m"pusty plik program.c"
+   99  git config --global user.email "jacekkielar1@wp.pl"
+  100  git config --global user.name "JacekK87"
+  101  git commit -m"pusty plik program.c"
+  102  cat ~/.gitconfig
+  103  cat cat program.c
+  104  cat program.c
+  105  git pusch
+  106  git push
+  107  git add .
+  108  git status
+  109  gir remote
+  110  git remote add origin https://github.com/JacekK87/pierwszy_program_w_c.git
+  111  git push -u origin master
+  112  nano program.c
+  113  cat program.c
+  114  gcc --version
+  115  gcc program.c -o program.o
+  116  ls
+  117  ./program.o
+  118  nano program.c
+  119  cat program.o
+  120  git status
+  121  touch .gitignore
+  122  nano .gitignore
+  123  git status
+  124  git add .
+  125  git status
+  126  git commin -m"pierwszy program zakończony"
+  127  git commit -m"pierwszy program zakończony"
+  128  git push
+  129  history
+  130  clear
+  131  history 
+  132  git log
+  133  history >historia.txt
